@@ -1,4 +1,4 @@
-# Thesis, projects and assignments done during the Bachelor's and Master's degree in Computer Science
+# Theses, projects and assignments done during the Bachelor's and Master's degree in Computer Science
 
 This repository contains links to theses and some projects and assignments done during the [Bachelor's (L31)](https://www.informatica.unifi.it/) and [Master's degree (LM18)](https://www.informaticamagistrale.unifi.it/) in Computer Science at the [University of Florence](https://www.unifi.it/).
 
