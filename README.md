@@ -31,3 +31,6 @@ computation and game theory.
 
     - *B027540 - Advanced Techniques and Tools for Software Development*:
       - [spring-bookshelf](https://github.com/FrancescoMucci/spring-bookshelf): SpringBoot web application project with TDD, build automation and CI.
+
+    - *B012489 - Modelli di Sistemi Sequenziali e Concorrenti (Sequential and Concurrent Systems Models)*:
+      - [mssc-exercises](https://github.com/FrancescoMucci/mssc-exercises): exercises about operational semantics, denotational semantics and process algebras.
