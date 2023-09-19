@@ -9,7 +9,7 @@ computation and game theory.
 
 ### LM18 - Laurea Magistrale in Informatica (Master's degree in Computer Science)
   - Master's thesis:
-    - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis): prototyping of a bounty-claim protocol for a bug-bounty blockchain-based platform.
+    - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis): design, development and formal verification of a smart contract to support the fair-exchange protocol of a blockchain-based bug-bounty platform.
 
   - Project and assignments done <!-- for the Master's degree in Computer Science --> as parts of the following exams:
     - *B012505 - Sistemi Critici e Real Time (Real Time and Critical Systems)*:
