@@ -12,7 +12,7 @@ computation and game theory.
     - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis): design, development and formal verification of a Solidity smart contract to support the fair-exchange protocol of a blockchain-based bug-bounty platform.
 
   - Project and assignments done <!-- for the Master's degree in Computer Science --> as parts of the following exams:
-    - *B012505 - Sistemi Critici e Real Time (Real Time and Critical Systems)*:
+    - *B012505 - Sistemi Critici e Real-Time (Real-Time and Critical Systems)*:
       - [anomaly-detection-presentation](https://github.com/FrancescoMucci/anomaly-detection-presentation): presentation on a paper about anomaly detection;
       - [jit-certification-presentation](https://github.com/FrancescoMucci/jit-certification-presentation): presentation on a paper about JIT certification of systems;
       - [smartgrid-cybersec-presentation](https://github.com/FrancescoMucci/smartgrid-cybersec-presentation): presentation on a paper about smart grid cybersecurity.
@@ -32,5 +32,5 @@ computation and game theory.
     - *B027540 - Advanced Techniques and Tools for Software Development*:
       - [spring-bookshelf](https://github.com/FrancescoMucci/spring-bookshelf): SpringBoot web application project developed with test driven development, build automation and continuous integration.
 
-    - *B012489 - Modelli di Sistemi Sequenziali e Concorrenti (Sequential and Concurrent Systems Models)*:
+    - *B012489 - Modelli di Sistemi Sequenziali e Concorrenti (Models of Sequential and Concurrent Systems)*:
       - [mssc-exercises](https://github.com/FrancescoMucci/mssc-exercises): exercises about operational semantics, denotational semantics and process algebras.
